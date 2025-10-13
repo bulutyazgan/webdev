@@ -1,1 +1,1 @@
-Starting over from the basic's to refresh my memory on webdev.
+Starting over from the basics to refresh my memory on webdev.
